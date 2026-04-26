@@ -1,4 +1,4 @@
-baseURL = 'https://socompila.github.io/'
+baseURL = 'https://davisocompila.github.io/'
 theme = 'PaperMod'
 languageCode = 'pt-br'
 title = 'SoCompila'
