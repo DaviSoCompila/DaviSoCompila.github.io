@@ -9,7 +9,7 @@ title = 'SoCompila'
 
 [[params.socialIcons]]
     name = "github"
-    url = "https://github.com/socompila"
+    url = "https://github.com/DaviSoCompila"
 [[params.socialIcons]]
     name = "rss"
     url = "/blog/index.xml" # RSS específico do blog
@@ -18,7 +18,7 @@ title = 'SoCompila'
     enabled = true # ATIVA O LINKTREE
     title = "SoCompila"
     subtitle = "Desenvolvedor & Entusiasta de Tecnologia"
-    imageUrl = "https://github.com/socompila.png" # Puxa sua foto do GitHub
+    imageUrl = "https://github.com/DaviSoCompila.png" # Puxa sua foto do GitHub
     imageWidth = 120
     imageHeight = 120
     
@@ -27,4 +27,4 @@ title = 'SoCompila'
         url = "/blog"
     [[params.profileMode.buttons]]
         name = "Meu GitHub"
-        url = "https://github.com/socompila"
+        url = "https://github.com/DaviSoCompila"
