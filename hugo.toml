@@ -1,0 +1,30 @@
+baseURL = 'https://socompila.github.io/'
+theme = 'PaperMod'
+languageCode = 'pt-br'
+title = 'SoCompila'
+
+[params.homeInfoParams]
+    Title = "Olá, eu sou o SoCompila! 👋"
+    Content = "Bem-vindo ao meu canto na web."
+
+[[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/socompila"
+[[params.socialIcons]]
+    name = "rss"
+    url = "/blog/index.xml" # RSS específico do blog
+
+[params.profileMode]
+    enabled = true # ATIVA O LINKTREE
+    title = "SoCompila"
+    subtitle = "Desenvolvedor & Entusiasta de Tecnologia"
+    imageUrl = "https://github.com/socompila.png" # Puxa sua foto do GitHub
+    imageWidth = 120
+    imageHeight = 120
+    
+    [[params.profileMode.buttons]]
+        name = "Acessar o Blog"
+        url = "/blog"
+    [[params.profileMode.buttons]]
+        name = "Meu GitHub"
+        url = "https://github.com/socompila"

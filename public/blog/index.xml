@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog on SoCompila</title>
+    <link>https://socompila.github.io/blog/</link>
+    <description>Recent content in Blog on SoCompila</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 26 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://socompila.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meu Post com Diagrama</title>
+      <link>https://socompila.github.io/blog/meu-primeiro-post/</link>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://socompila.github.io/blog/meu-primeiro-post/</guid>
+      <description>&lt;p&gt;Olha esse diagrama feito com Mermaid:&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;
+  
+graph TD;
+    A[Início] --&gt; B{Funciona?};
+    B -- Sim --&gt; C[Sucesso!];
+    B -- Não --&gt; D[Tentar de novo];
+
+&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
