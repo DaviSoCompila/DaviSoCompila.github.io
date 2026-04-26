@@ -7,13 +7,6 @@ title = 'SoCompila'
     Title = "Olá, eu sou o SoCompila! 👋"
     Content = "Bem-vindo ao meu canto na web."
 
-#[[params.socialIcons]]
-#    name = "github"
-#    url = "https://github.com/DaviSoCompila"
-#[[params.socialIcons]]
-#    name = "rss"
-#    url = "/blog/index.xml" # RSS específico do blog
-
 [params.profileMode]
     enabled = true # ATIVA O LINKTREE
     title = "SoCompila"
