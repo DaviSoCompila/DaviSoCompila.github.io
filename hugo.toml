@@ -21,3 +21,4 @@ title = 'SoCompila'
     [[params.profileMode.buttons]]
         name = "Meu GitHub"
         url = "https://github.com/DaviSoCompila"
+	target = "_blank"
